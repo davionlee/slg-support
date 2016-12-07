@@ -1,4 +1,4 @@
-{application, spt_crate,
+{application, slg_support,
  [
   {description, ""},
   {vsn, "1"},
